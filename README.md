@@ -1,2 +1,3 @@
 # Connectivity-BOM
-Sample connectivity modules
+Sample radio frequency and connectivity modules as well as "Bill of Materials". This is "CoffeeMiner compatible" for long range connectivty along w/ a routing system.
+![N|Solid](https://i.imgur.com/1mSVxAT.png)
